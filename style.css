@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: #f4f4f4;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(red, green, blue, alpha);
+        
+}
+h1{
+    font-size: 32px;
+    color: aqua;
+    margin-bottom: 30px;
+}
